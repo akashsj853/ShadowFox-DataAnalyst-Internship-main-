@@ -293,13 +293,13 @@ Mentor: **Mr. Aakash**  ·  Batch: **August 2026**
 
 ### 📫 Let's Connect
 
-<a href="https://github.com/adityasharma2468">
+<a href="https://github.com/akashsj853">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/aditya-kumar-sharma-137503316?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/akash-s-j">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:adityajjkl773975@gmail.com">
+<a href="mailto:akashshrikanthjagannathakash@gmail.com">
 <img src="https://img.shields.io/badge/Email-C99A3E?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
