@@ -250,7 +250,7 @@ ShadowFox-DataAnalyst-Internship/
 # 🚀 How to Explore
 
 ```bash
-git clone https://github.com/adityasharma2468/ShadowFox-DataAnalyst-Internship.git
+git clonehttps://github.com/akash358/ShadowFox-DataAnalyst-Internship.git](https://github.com/akashsj853/ShadowFox-DataAnalyst-Internship-main-
 ```
 
 ```bash
